@@ -1,0 +1,7 @@
+ ✅ 4. **Create `requirements.txt`**
+
+1. Open your terminal/command prompt.
+2. If you're in your project environment, run:
+
+```bash
+pip freeze > requirements.txt
