@@ -1,0 +1,201 @@
+Order ID,Order Date,Ship Date,Product Name,Category,Sub-Category,Sales,Quantity,Discount,Profit,Region,Customer Name
+ORD1000,2022-04-11,2022-04-15,Monitor,Office Supplies,Accessories,326.85,1,0.2,220.3,East,Bob
+ORD1001,2022-09-27,2022-09-29,Phone,Office Supplies,Storage,896.57,5,0.0,291.57,West,Diana
+ORD1002,2023-01-26,2023-01-27,Pen,Technology,Chairs,395.31,9,0.3,235.92,Central,Hannah
+ORD1003,2023-07-25,2023-07-30,Monitor,Technology,Phones,20.73,2,0.0,246.8,East,Hannah
+ORD1004,2022-04-07,2022-04-08,Table,Furniture,Accessories,906.33,1,0.0,63.19,Central,Ethan
+ORD1005,2023-02-07,2023-02-11,Lamp,Technology,Phones,100.37,9,0.2,120.69,East,Charlie
+ORD1006,2023-03-16,2023-03-22,Pen,Office Supplies,Storage,326.12,9,0.3,1.56,East,Hannah
+ORD1007,2022-11-20,2022-11-27,Pen,Office Supplies,Storage,950.56,9,0.3,-21.55,South,Fiona
+ORD1008,2023-10-25,2023-10-30,Monitor,Technology,Accessories,951.1,6,0.0,102.2,South,Charlie
+ORD1009,2023-01-02,2023-01-05,Chair,Office Supplies,Chairs,577.7,8,0.1,138.02,South,Fiona
+ORD1010,2023-04-05,2023-04-10,Table,Office Supplies,Binders,635.52,1,0.2,35.71,Central,George
+ORD1011,2023-01-14,2023-01-18,Monitor,Technology,Accessories,453.96,4,0.2,127.78,West,Bob
+ORD1012,2022-11-23,2022-11-27,Table,Technology,Binders,300.28,1,0.2,254.98,East,Alice
+ORD1013,2022-02-09,2022-02-10,Table,Office Supplies,Binders,335.38,8,0.2,122.69,East,Hannah
+ORD1014,2022-03-09,2022-03-15,Lamp,Office Supplies,Chairs,675.79,1,0.3,188.33,East,Bob
+ORD1015,2023-06-22,2023-06-28,Pen,Office Supplies,Binders,754.85,3,0.3,222.13,Central,George
+ORD1016,2022-09-21,2022-09-25,Phone,Furniture,Binders,793.66,4,0.1,295.49,South,Diana
+ORD1017,2022-07-12,2022-07-18,Lamp,Furniture,Chairs,791.72,8,0.2,141.28,West,Diana
+ORD1018,2023-07-28,2023-07-30,Lamp,Furniture,Binders,100.29,6,0.2,222.74,Central,George
+ORD1019,2022-06-06,2022-06-10,Table,Technology,Binders,499.48,7,0.0,285.06,South,Fiona
+ORD1020,2023-02-08,2023-02-13,Notebook,Furniture,Binders,66.98,8,0.3,277.76,Central,Ethan
+ORD1021,2023-03-14,2023-03-16,Pen,Technology,Accessories,554.03,2,0.2,-43.57,West,Ethan
+ORD1022,2023-06-23,2023-06-27,Chair,Technology,Accessories,447.12,8,0.1,62.56,South,Fiona
+ORD1023,2023-11-14,2023-11-19,Lamp,Furniture,Accessories,888.83,3,0.1,29.6,Central,Diana
+ORD1024,2022-01-26,2022-01-31,Phone,Furniture,Chairs,357.41,7,0.3,-65.23,West,Diana
+ORD1025,2023-07-28,2023-08-01,Notebook,Furniture,Storage,125.9,3,0.1,153.3,East,Hannah
+ORD1026,2023-10-17,2023-10-23,Notebook,Office Supplies,Binders,151.56,7,0.1,194.36,West,Diana
+ORD1027,2023-09-20,2023-09-26,Chair,Furniture,Binders,763.9,2,0.3,239.25,East,Bob
+ORD1028,2022-01-05,2022-01-12,Lamp,Office Supplies,Chairs,622.04,6,0.2,-50.89,Central,Diana
+ORD1029,2023-08-27,2023-09-03,Phone,Technology,Binders,110.11,3,0.2,250.58,South,Charlie
+ORD1030,2023-05-15,2023-05-18,Pen,Office Supplies,Accessories,93.27,3,0.1,157.17,South,Hannah
+ORD1031,2022-02-16,2022-02-17,Laptop,Furniture,Storage,703.96,9,0.1,181.58,Central,Alice
+ORD1032,2022-02-10,2022-02-15,Phone,Technology,Phones,82.04,7,0.2,264.25,South,Diana
+ORD1033,2023-07-30,2023-08-05,Chair,Technology,Binders,823.64,5,0.3,149.9,South,Fiona
+ORD1034,2023-04-15,2023-04-19,Notebook,Technology,Accessories,709.18,7,0.1,34.35,East,Alice
+ORD1035,2023-11-12,2023-11-17,Pen,Office Supplies,Phones,90.54,9,0.0,230.04,Central,Bob
+ORD1036,2022-01-06,2022-01-12,Phone,Furniture,Storage,93.99,1,0.3,45.22,West,Fiona
+ORD1037,2023-07-27,2023-07-31,Laptop,Technology,Phones,986.77,7,0.1,-86.31,East,Alice
+ORD1038,2022-05-07,2022-05-13,Laptop,Technology,Accessories,380.53,6,0.1,232.26,Central,Fiona
+ORD1039,2023-10-13,2023-10-18,Table,Technology,Phones,376.94,9,0.0,38.08,East,Bob
+ORD1040,2022-02-02,2022-02-08,Table,Office Supplies,Chairs,814.67,1,0.0,209.53,West,Hannah
+ORD1041,2023-04-30,2023-05-02,Monitor,Office Supplies,Phones,947.78,4,0.2,45.1,West,Charlie
+ORD1042,2023-01-14,2023-01-15,Chair,Furniture,Binders,986.14,9,0.3,244.43,Central,Bob
+ORD1043,2023-10-02,2023-10-08,Lamp,Office Supplies,Binders,755.84,4,0.3,-12.2,West,Bob
+ORD1044,2022-10-01,2022-10-08,Phone,Technology,Chairs,382.5,3,0.2,289.82,East,Fiona
+ORD1045,2022-01-12,2022-01-14,Phone,Furniture,Accessories,92.67,9,0.3,211.9,West,Hannah
+ORD1046,2023-03-09,2023-03-16,Lamp,Technology,Binders,779.38,2,0.3,-54.3,East,George
+ORD1047,2023-10-23,2023-10-30,Monitor,Technology,Storage,562.82,4,0.3,126.31,East,Ethan
+ORD1048,2022-11-26,2022-12-03,Notebook,Office Supplies,Binders,429.98,6,0.3,294.15,West,Diana
+ORD1049,2023-06-13,2023-06-16,Notebook,Furniture,Binders,907.29,2,0.3,88.43,Central,Diana
+ORD1050,2023-09-30,2023-10-02,Monitor,Office Supplies,Accessories,120.09,8,0.0,-27.16,South,Charlie
+ORD1051,2022-10-17,2022-10-21,Notebook,Office Supplies,Phones,497.7,8,0.3,93.91,West,Charlie
+ORD1052,2022-11-18,2022-11-20,Table,Furniture,Binders,21.24,1,0.0,104.98,East,Diana
+ORD1053,2022-08-29,2022-08-31,Phone,Technology,Chairs,473.97,3,0.3,196.67,East,Ethan
+ORD1054,2023-10-23,2023-10-24,Monitor,Technology,Phones,65.74,9,0.2,179.54,West,Diana
+ORD1055,2023-02-25,2023-02-27,Phone,Furniture,Storage,127.63,5,0.1,61.02,Central,George
+ORD1056,2023-08-10,2023-08-16,Lamp,Technology,Accessories,126.35,6,0.0,-12.79,Central,Ethan
+ORD1057,2022-09-11,2022-09-17,Laptop,Furniture,Storage,652.72,4,0.3,158.02,East,Charlie
+ORD1058,2023-02-12,2023-02-18,Table,Furniture,Phones,748.58,2,0.2,68.68,East,Alice
+ORD1059,2022-12-24,2022-12-25,Pen,Office Supplies,Phones,587.54,8,0.1,-47.09,Central,Fiona
+ORD1060,2023-12-05,2023-12-07,Table,Furniture,Phones,962.55,6,0.0,260.23,South,George
+ORD1061,2022-04-28,2022-05-03,Monitor,Office Supplies,Storage,381.12,5,0.1,176.49,West,George
+ORD1062,2022-07-01,2022-07-03,Pen,Technology,Phones,292.85,9,0.2,173.27,East,Hannah
+ORD1063,2022-11-10,2022-11-14,Laptop,Technology,Storage,869.91,1,0.0,229.03,East,Charlie
+ORD1064,2022-06-15,2022-06-21,Monitor,Technology,Phones,231.36,5,0.1,111.86,Central,Charlie
+ORD1065,2022-10-03,2022-10-10,Chair,Technology,Chairs,963.59,6,0.3,226.02,West,Bob
+ORD1066,2023-05-04,2023-05-09,Phone,Office Supplies,Phones,22.03,5,0.0,99.24,Central,George
+ORD1067,2022-04-05,2022-04-07,Laptop,Technology,Storage,970.18,6,0.1,-73.13,West,Bob
+ORD1068,2022-06-14,2022-06-17,Phone,Furniture,Binders,52.73,6,0.2,62.1,West,Bob
+ORD1069,2022-12-05,2022-12-09,Notebook,Furniture,Phones,892.23,7,0.2,98.99,West,Fiona
+ORD1070,2023-05-19,2023-05-24,Chair,Furniture,Binders,532.42,4,0.0,188.08,East,Bob
+ORD1071,2023-08-20,2023-08-27,Chair,Office Supplies,Chairs,993.04,8,0.1,-57.37,South,Ethan
+ORD1072,2022-05-18,2022-05-21,Laptop,Technology,Accessories,83.06,7,0.0,-43.99,Central,Diana
+ORD1073,2022-07-02,2022-07-06,Chair,Technology,Chairs,558.32,9,0.0,5.47,South,Alice
+ORD1074,2023-01-24,2023-01-31,Pen,Technology,Phones,969.61,7,0.1,6.6,Central,Charlie
+ORD1075,2022-08-16,2022-08-18,Chair,Office Supplies,Binders,527.87,3,0.1,192.87,West,Ethan
+ORD1076,2022-09-12,2022-09-17,Phone,Furniture,Binders,633.1,3,0.3,0.29,East,Alice
+ORD1077,2022-11-13,2022-11-19,Phone,Furniture,Storage,698.79,8,0.1,153.24,South,George
+ORD1078,2023-11-21,2023-11-28,Monitor,Technology,Binders,460.0,5,0.2,97.71,East,George
+ORD1079,2023-04-24,2023-04-26,Phone,Furniture,Storage,631.28,4,0.0,129.32,Central,George
+ORD1080,2022-07-24,2022-07-27,Monitor,Furniture,Accessories,588.47,8,0.0,235.24,East,Ethan
+ORD1081,2022-11-19,2022-11-21,Phone,Office Supplies,Phones,902.15,6,0.2,61.75,East,Ethan
+ORD1082,2022-07-13,2022-07-17,Pen,Office Supplies,Storage,54.99,2,0.1,208.36,South,Charlie
+ORD1083,2023-08-29,2023-09-01,Lamp,Office Supplies,Accessories,288.15,4,0.2,68.81,West,Diana
+ORD1084,2022-01-03,2022-01-08,Monitor,Office Supplies,Binders,950.91,4,0.2,41.55,East,Hannah
+ORD1085,2022-08-15,2022-08-17,Table,Technology,Binders,891.36,6,0.3,283.45,West,Bob
+ORD1086,2023-06-01,2023-06-03,Notebook,Office Supplies,Accessories,461.1,6,0.2,-26.25,Central,George
+ORD1087,2022-04-24,2022-04-25,Laptop,Furniture,Binders,623.93,1,0.0,-63.87,East,Fiona
+ORD1088,2022-03-04,2022-03-08,Phone,Technology,Accessories,284.61,8,0.2,208.39,South,Diana
+ORD1089,2023-09-02,2023-09-03,Chair,Furniture,Storage,196.24,6,0.0,-72.7,Central,Fiona
+ORD1090,2023-11-18,2023-11-25,Lamp,Furniture,Storage,469.06,3,0.0,234.83,Central,Charlie
+ORD1091,2023-09-05,2023-09-10,Phone,Furniture,Accessories,359.82,9,0.0,74.88,South,Charlie
+ORD1092,2023-10-02,2023-10-09,Chair,Office Supplies,Storage,587.82,2,0.1,266.21,East,Charlie
+ORD1093,2023-12-24,2023-12-31,Notebook,Office Supplies,Storage,86.96,8,0.3,188.61,East,Alice
+ORD1094,2022-02-18,2022-02-20,Notebook,Technology,Storage,974.65,3,0.0,144.16,Central,Fiona
+ORD1095,2023-08-09,2023-08-14,Notebook,Technology,Chairs,986.35,5,0.0,279.72,East,Diana
+ORD1096,2022-01-31,2022-02-04,Chair,Office Supplies,Phones,701.18,6,0.1,58.66,West,Hannah
+ORD1097,2022-06-26,2022-07-02,Phone,Furniture,Binders,540.74,6,0.0,281.63,South,Diana
+ORD1098,2023-11-03,2023-11-09,Notebook,Technology,Chairs,316.43,4,0.2,-46.0,West,Ethan
+ORD1099,2023-11-06,2023-11-10,Pen,Office Supplies,Storage,815.66,3,0.2,93.5,East,Ethan
+ORD1100,2023-05-20,2023-05-24,Monitor,Office Supplies,Accessories,687.88,4,0.3,7.96,Central,George
+ORD1101,2023-12-23,2023-12-28,Chair,Office Supplies,Storage,170.99,1,0.0,115.94,South,Hannah
+ORD1102,2022-05-22,2022-05-23,Chair,Furniture,Phones,911.82,4,0.1,-35.19,East,Ethan
+ORD1103,2023-06-05,2023-06-10,Phone,Office Supplies,Storage,824.31,1,0.2,236.61,East,Charlie
+ORD1104,2023-09-01,2023-09-06,Chair,Office Supplies,Accessories,950.3,1,0.1,238.56,Central,Diana
+ORD1105,2023-01-09,2023-01-16,Chair,Office Supplies,Phones,728.46,6,0.1,282.09,Central,Fiona
+ORD1106,2023-04-06,2023-04-09,Notebook,Office Supplies,Storage,617.28,5,0.2,-38.13,West,Charlie
+ORD1107,2023-12-19,2023-12-24,Phone,Technology,Phones,424.06,4,0.1,149.33,South,Alice
+ORD1108,2022-01-15,2022-01-21,Notebook,Technology,Binders,933.4,3,0.2,89.69,South,Ethan
+ORD1109,2022-12-19,2022-12-20,Monitor,Office Supplies,Binders,867.4,1,0.1,37.75,Central,Charlie
+ORD1110,2022-03-20,2022-03-21,Lamp,Furniture,Storage,54.77,6,0.2,40.62,West,Charlie
+ORD1111,2022-05-13,2022-05-19,Monitor,Technology,Phones,36.1,2,0.0,65.12,South,Alice
+ORD1112,2023-02-08,2023-02-12,Lamp,Office Supplies,Accessories,382.7,8,0.3,181.97,Central,Bob
+ORD1113,2023-09-13,2023-09-20,Notebook,Technology,Storage,812.45,5,0.2,139.31,East,Diana
+ORD1114,2022-02-07,2022-02-08,Monitor,Technology,Binders,987.4,7,0.2,83.87,South,Fiona
+ORD1115,2022-03-31,2022-04-05,Phone,Furniture,Binders,158.91,2,0.3,-69.63,West,George
+ORD1116,2023-04-10,2023-04-11,Laptop,Office Supplies,Storage,598.19,8,0.2,-68.89,West,Bob
+ORD1117,2022-12-30,2023-01-04,Notebook,Office Supplies,Phones,387.08,2,0.2,-99.06,West,Ethan
+ORD1118,2022-07-12,2022-07-17,Lamp,Furniture,Binders,970.22,4,0.1,287.08,East,Charlie
+ORD1119,2022-04-17,2022-04-24,Pen,Furniture,Phones,843.7,1,0.3,-97.9,South,Hannah
+ORD1120,2023-09-19,2023-09-20,Lamp,Office Supplies,Binders,839.95,5,0.0,-58.76,South,Alice
+ORD1121,2022-05-24,2022-05-28,Pen,Office Supplies,Binders,474.01,9,0.2,25.84,East,Alice
+ORD1122,2023-11-24,2023-12-01,Chair,Furniture,Chairs,420.67,1,0.3,222.97,South,Hannah
+ORD1123,2022-06-18,2022-06-25,Monitor,Technology,Binders,280.67,9,0.1,284.84,East,Diana
+ORD1124,2023-11-28,2023-12-05,Pen,Technology,Accessories,65.81,8,0.0,216.01,East,Bob
+ORD1125,2023-12-10,2023-12-13,Lamp,Furniture,Storage,866.08,6,0.3,176.22,East,George
+ORD1126,2022-01-27,2022-01-30,Chair,Technology,Storage,814.77,7,0.0,108.52,West,Diana
+ORD1127,2023-12-03,2023-12-09,Laptop,Furniture,Phones,999.72,3,0.0,-65.32,South,Hannah
+ORD1128,2022-05-30,2022-06-06,Phone,Technology,Binders,996.67,1,0.0,283.27,East,Charlie
+ORD1129,2023-02-06,2023-02-12,Phone,Technology,Accessories,559.88,5,0.2,203.36,South,Hannah
+ORD1130,2022-03-08,2022-03-12,Phone,Office Supplies,Phones,771.3,2,0.2,155.58,West,Diana
+ORD1131,2022-11-16,2022-11-17,Pen,Office Supplies,Chairs,945.32,5,0.1,203.61,East,Fiona
+ORD1132,2022-07-08,2022-07-11,Laptop,Technology,Phones,851.15,8,0.1,189.64,Central,Alice
+ORD1133,2022-11-25,2022-12-01,Pen,Technology,Phones,254.87,9,0.3,154.89,West,Alice
+ORD1134,2022-05-03,2022-05-06,Monitor,Office Supplies,Binders,456.04,2,0.1,292.23,Central,Ethan
+ORD1135,2023-06-25,2023-06-27,Pen,Office Supplies,Chairs,137.87,3,0.0,261.35,South,Ethan
+ORD1136,2023-04-04,2023-04-06,Laptop,Office Supplies,Phones,954.51,3,0.0,158.67,South,Hannah
+ORD1137,2023-02-23,2023-03-02,Laptop,Furniture,Accessories,610.11,1,0.2,177.27,West,George
+ORD1138,2023-07-12,2023-07-14,Monitor,Technology,Accessories,236.36,8,0.0,-79.36,South,Charlie
+ORD1139,2023-03-17,2023-03-20,Laptop,Office Supplies,Storage,674.98,6,0.3,167.97,Central,Fiona
+ORD1140,2023-12-04,2023-12-05,Lamp,Technology,Chairs,621.95,8,0.0,-82.33,East,Bob
+ORD1141,2023-07-19,2023-07-21,Laptop,Furniture,Chairs,364.58,9,0.0,135.31,East,Diana
+ORD1142,2023-10-10,2023-10-17,Phone,Furniture,Storage,122.42,5,0.3,299.74,East,George
+ORD1143,2022-02-02,2022-02-09,Lamp,Office Supplies,Phones,674.86,3,0.1,122.32,West,Charlie
+ORD1144,2022-03-02,2022-03-03,Lamp,Furniture,Chairs,525.1,5,0.1,89.28,South,Ethan
+ORD1145,2023-08-11,2023-08-13,Monitor,Technology,Accessories,774.6,5,0.3,25.14,Central,Hannah
+ORD1146,2023-07-02,2023-07-07,Table,Office Supplies,Accessories,524.96,5,0.2,-51.79,South,Diana
+ORD1147,2023-05-09,2023-05-12,Table,Technology,Binders,853.66,3,0.0,192.41,South,Ethan
+ORD1148,2022-07-14,2022-07-15,Laptop,Technology,Chairs,556.39,4,0.3,-22.96,South,Hannah
+ORD1149,2023-01-24,2023-01-28,Lamp,Furniture,Phones,565.33,9,0.0,-53.89,East,Diana
+ORD1150,2023-07-01,2023-07-03,Table,Furniture,Storage,877.89,9,0.2,68.71,Central,Bob
+ORD1151,2022-12-07,2022-12-13,Table,Furniture,Storage,409.45,2,0.0,218.14,Central,Charlie
+ORD1152,2022-01-26,2022-01-30,Laptop,Furniture,Phones,142.68,8,0.3,198.03,South,Diana
+ORD1153,2022-02-03,2022-02-07,Table,Furniture,Binders,38.49,8,0.0,-78.05,East,Fiona
+ORD1154,2022-10-19,2022-10-26,Pen,Office Supplies,Storage,757.59,7,0.1,82.06,East,George
+ORD1155,2022-03-10,2022-03-14,Chair,Technology,Chairs,624.11,8,0.2,108.97,Central,Alice
+ORD1156,2023-09-06,2023-09-13,Monitor,Technology,Binders,707.04,3,0.2,157.82,East,Fiona
+ORD1157,2022-05-13,2022-05-14,Chair,Technology,Chairs,220.83,6,0.2,160.07,East,Fiona
+ORD1158,2022-10-13,2022-10-18,Laptop,Technology,Accessories,145.01,1,0.3,45.88,East,George
+ORD1159,2022-05-19,2022-05-26,Phone,Furniture,Binders,24.4,7,0.2,124.27,West,Alice
+ORD1160,2023-12-27,2023-12-31,Monitor,Technology,Storage,357.08,1,0.1,92.42,South,Fiona
+ORD1161,2023-05-14,2023-05-18,Laptop,Office Supplies,Binders,594.02,9,0.3,254.0,Central,Diana
+ORD1162,2022-12-02,2022-12-07,Lamp,Office Supplies,Binders,398.32,1,0.1,112.11,Central,Diana
+ORD1163,2022-01-03,2022-01-05,Phone,Technology,Binders,443.1,1,0.0,76.41,West,Diana
+ORD1164,2023-01-01,2023-01-02,Chair,Technology,Binders,905.12,7,0.0,61.79,South,Alice
+ORD1165,2022-06-21,2022-06-23,Laptop,Office Supplies,Chairs,354.77,2,0.0,128.97,Central,Fiona
+ORD1166,2023-03-06,2023-03-09,Lamp,Office Supplies,Accessories,518.85,5,0.0,221.59,East,Hannah
+ORD1167,2022-06-07,2022-06-10,Monitor,Furniture,Phones,785.82,8,0.1,115.36,Central,Alice
+ORD1168,2022-07-16,2022-07-21,Monitor,Office Supplies,Binders,402.58,8,0.3,164.66,East,Diana
+ORD1169,2023-10-17,2023-10-24,Notebook,Furniture,Storage,625.87,3,0.3,195.14,West,George
+ORD1170,2023-07-31,2023-08-01,Lamp,Furniture,Binders,863.74,7,0.2,108.07,East,Fiona
+ORD1171,2022-07-12,2022-07-18,Pen,Furniture,Storage,950.03,3,0.1,70.73,Central,Fiona
+ORD1172,2022-10-28,2022-10-31,Table,Furniture,Chairs,155.6,6,0.0,250.67,Central,Ethan
+ORD1173,2023-01-29,2023-02-02,Phone,Furniture,Storage,927.32,6,0.1,67.0,Central,Ethan
+ORD1174,2022-02-22,2022-02-25,Lamp,Technology,Phones,497.2,3,0.2,84.78,West,Bob
+ORD1175,2022-03-01,2022-03-03,Notebook,Office Supplies,Accessories,265.66,7,0.2,296.14,West,Hannah
+ORD1176,2022-05-13,2022-05-14,Table,Furniture,Storage,464.54,3,0.1,-99.9,South,Hannah
+ORD1177,2022-11-24,2022-11-29,Table,Office Supplies,Storage,980.23,8,0.1,-25.81,Central,Charlie
+ORD1178,2023-11-30,2023-12-05,Laptop,Office Supplies,Accessories,497.69,4,0.1,53.59,East,Hannah
+ORD1179,2022-11-08,2022-11-14,Table,Furniture,Phones,335.46,1,0.3,273.04,West,Ethan
+ORD1180,2023-08-30,2023-09-03,Pen,Technology,Binders,637.07,4,0.0,-71.99,Central,Alice
+ORD1181,2023-06-29,2023-07-05,Monitor,Furniture,Storage,247.74,7,0.1,-96.21,Central,Hannah
+ORD1182,2022-01-23,2022-01-30,Notebook,Technology,Accessories,85.1,4,0.1,-78.93,West,Ethan
+ORD1183,2022-01-21,2022-01-23,Table,Office Supplies,Chairs,137.59,6,0.1,-64.58,South,Bob
+ORD1184,2023-03-18,2023-03-24,Laptop,Technology,Accessories,136.77,9,0.2,-84.96,West,Fiona
+ORD1185,2023-03-17,2023-03-19,Pen,Technology,Chairs,160.38,1,0.2,91.91,West,Hannah
+ORD1186,2023-05-12,2023-05-19,Chair,Technology,Phones,147.44,5,0.3,132.3,East,Bob
+ORD1187,2023-05-04,2023-05-09,Monitor,Office Supplies,Binders,644.47,7,0.0,8.67,East,Fiona
+ORD1188,2022-08-13,2022-08-18,Monitor,Office Supplies,Accessories,190.06,1,0.3,59.31,South,George
+ORD1189,2022-04-15,2022-04-16,Notebook,Technology,Storage,352.21,4,0.0,-63.32,Central,George
+ORD1190,2023-12-05,2023-12-10,Monitor,Technology,Phones,897.82,6,0.2,34.55,West,Fiona
+ORD1191,2023-01-15,2023-01-22,Table,Furniture,Accessories,479.22,2,0.2,109.01,South,Hannah
+ORD1192,2023-01-29,2023-01-30,Laptop,Technology,Storage,670.88,5,0.2,192.91,East,Charlie
+ORD1193,2023-07-14,2023-07-20,Monitor,Furniture,Accessories,180.6,1,0.3,-98.66,West,Ethan
+ORD1194,2023-06-12,2023-06-17,Monitor,Technology,Chairs,200.37,6,0.1,86.92,Central,Alice
+ORD1195,2022-03-27,2022-03-29,Chair,Furniture,Accessories,50.46,6,0.1,18.8,East,Alice
+ORD1196,2022-11-27,2022-12-03,Chair,Office Supplies,Accessories,177.25,4,0.2,241.13,East,Diana
+ORD1197,2022-06-12,2022-06-14,Phone,Technology,Accessories,285.8,8,0.1,186.22,East,Fiona
+ORD1198,2022-09-03,2022-09-09,Pen,Technology,Phones,185.24,4,0.1,135.64,South,Alice
+ORD1199,2023-09-07,2023-09-11,Table,Technology,Accessories,97.82,8,0.3,10.91,Central,Hannah
